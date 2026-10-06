@@ -1,0 +1,12 @@
+{
+  "name": "Remix: Quiet Messaging App",
+  "description": "A quiet messaging application featuring quiet folders, notification control, and an end-to-end encrypted TN Government Grievance Portal with citizen anonymity safeguards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
